@@ -1,0 +1,12 @@
+C:\Users\Marcelo\Source\repos\EAD_ProjetoDS\DTO_EAD_ProjetoDS\bin\Debug\DTO_EAD_ProjetoDS.dll
+C:\Users\Marcelo\Source\repos\EAD_ProjetoDS\DTO_EAD_ProjetoDS\bin\Debug\DTO_EAD_ProjetoDS.pdb
+C:\Users\Marcelo\Source\repos\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.csprojAssemblyReference.cache
+C:\Users\Marcelo\Source\repos\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.dll
+C:\Users\Marcelo\Source\repos\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.pdb
+C:\Users\Emers\Downloads\EAD_ProjetoDS\DTO_EAD_ProjetoDS\bin\Debug\DTO_EAD_ProjetoDS.dll
+C:\Users\Emers\Downloads\EAD_ProjetoDS\DTO_EAD_ProjetoDS\bin\Debug\DTO_EAD_ProjetoDS.pdb
+C:\Users\Emers\Downloads\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.csprojAssemblyReference.cache
+C:\Users\Emers\Downloads\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.csproj.CoreCompileInputs.cache
+C:\Users\Emers\Downloads\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.dll
+C:\Users\Emers\Downloads\EAD_ProjetoDS\DTO_EAD_ProjetoDS\obj\Debug\DTO_EAD_ProjetoDS.pdb
