@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5D4EB0C6-5BC6-4B78-BC38-1E1F983A1B60}</ProjectGuid>
+    <ProjectGuid>{C9C29B54-D8E5-41C8-A2AF-F1E542F5DB2C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DAL_EAD_ProjetoDS</RootNamespace>
     <AssemblyName>DAL_EAD_ProjetoDS</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -41,12 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DAL_Login.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTO_EAD_ProjetoDS\DTO_EAD_ProjetoDS.csproj">
-      <Project>{faf8c1ea-804a-43aa-a653-e9e4e975c902}</Project>
+      <Project>{6bb88c12-e5ee-42cc-bd22-7508625d6370}</Project>
       <Name>DTO_EAD_ProjetoDS</Name>
     </ProjectReference>
   </ItemGroup>
