@@ -22,7 +22,7 @@ namespace BLL_EAD_ProjetoDS
 
                 throw new Exception("Campo senha vazio!");
             }
-            return "Sucesso";
+            return DAL_Login.ValidarLogin(obj);
         }
 
 

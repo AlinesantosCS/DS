@@ -39,14 +39,29 @@ namespace UI_EAD_ProjetoDS
 
                MessageBox.Show(BLL_Login.ValidarLogin(obj)); // Retorna uma string
 
+                /*string resultado = BLL_Login.ValidarLogin(obj));
+                if(resultado == "Sucesso")
+                {
+                    // Tela Usuário
+                }
+                else
+                {
+                    MessageBox.Show(resultado);
+                }
+
             }
             catch(Exception ex)
             {
                 MessageBox.Show(ex.Message);
-            }
+            }*/
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

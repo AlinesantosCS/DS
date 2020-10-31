@@ -20,3 +20,14 @@ C:\Users\Aline\Documents\GitHub\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL
 C:\Users\Aline\Documents\GitHub\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.csproj.CopyComplete
 C:\Users\Aline\Documents\GitHub\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.dll
 C:\Users\Aline\Documents\GitHub\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.pdb
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\bin\Debug\BLL_EAD_ProjetoDS.dll
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\bin\Debug\BLL_EAD_ProjetoDS.pdb
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\bin\Debug\DAL_EAD_ProjetoDS.dll
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\bin\Debug\DTO_EAD_ProjetoDS.dll
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\bin\Debug\DAL_EAD_ProjetoDS.pdb
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\bin\Debug\DTO_EAD_ProjetoDS.pdb
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.csprojAssemblyReference.cache
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.csproj.CoreCompileInputs.cache
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.csproj.CopyComplete
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.dll
+C:\Users\Emers\Desktop\DS\EAD_ProjetoDS\BLL_EAD_ProjetoDS\obj\Debug\BLL_EAD_ProjetoDS.pdb
